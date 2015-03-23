@@ -1,0 +1,37 @@
+html, body, #sitecontainer {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+
+#sketchpadcontainer {
+}
+
+button {
+	display: block;
+	margin: 0 auto;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+#sketchpadcontainer {
+}
+
+.row {
+	text-align: center;
+}
+
+.sqrcontainer {
+	height: 1.5em;
+	width: 1.5em;
+	display: inline-block;
+}
+
+.square {
+	width: 1em;
+	height: 1em;
+	margin: .1em;
+	border-color: black;
+	border-style: solid;
+	border-radius: .1em;
+}
